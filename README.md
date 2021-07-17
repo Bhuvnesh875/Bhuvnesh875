@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhuvnesh875
 - 👀 I’m interested in development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and practicing c++ by doing contests on codechef.
 <!--- 📫 How to reach me ...-->
 
 <!---
