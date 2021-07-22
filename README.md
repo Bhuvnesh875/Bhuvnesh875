@@ -36,8 +36,8 @@
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ I love connecting with different people and getting involved in community :raised_hands:
+<!-- - 🧗 I try to: Go beyond and push the bounds -->
 
 <br>
 
@@ -83,10 +83,11 @@
 
 
 ### :zap: Github Stats
+![Bhuvnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuvnesh875&show_icons=true&theme=tokyonight)
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Bhuvnesh875&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Bhuvnesh875&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Bhuvnesh875&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bhuvnesh's Top Languages">
 
 
 
