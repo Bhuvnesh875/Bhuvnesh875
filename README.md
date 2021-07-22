@@ -27,7 +27,7 @@
 
 <br>
 
-<img align="right" height="370px" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+<img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
 ### I am currently a Learner and a beginner
 <!-- - 🔭 I’m currently working on my Portfolio Website :grin: -->
