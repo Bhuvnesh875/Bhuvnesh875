@@ -29,7 +29,7 @@
 
 <img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-### I am currently a Learner and a beginner
+### I am currently a beginner.
 <!-- - 🔭 I’m currently working on my Portfolio Website :grin: -->
 <!-- - 🌱 I’m currently learning MERN Stack Development. -->
 <!-- - 👯 I’m looking to collaborate with other Developers :wink: -->
