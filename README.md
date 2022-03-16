@@ -86,7 +86,7 @@
 
 
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=DevilsAutumn5&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bhuvnesh's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=DevilsAutumn&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bhuvnesh's Top Languages">
 
 
 
