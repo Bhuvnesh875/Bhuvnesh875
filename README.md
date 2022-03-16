@@ -82,11 +82,11 @@
 
 
 ### :zap: Github Stats
-![Bhuvnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuvnesh875&show_icons=true&theme=tokyonight)
+![Bhuvnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevilsAutumn&show_icons=true&theme=tokyonight)
 
 
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Bhuvnesh875&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bhuvnesh's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=DevilsAutumn5&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bhuvnesh's Top Languages">
 
 
 
