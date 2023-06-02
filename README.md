@@ -26,7 +26,7 @@
 <!-- - 🔭 I’m currently working on my Portfolio Website :grin: -->
 <!-- - 🌱 I’m currently learning MERN Stack Development. -->
 <!-- - 👯 I’m looking to collaborate with other Developers :wink: -->
-- 🥅 20223 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - ⚡ I love connecting with different people and getting involved in community :raised_hands:
